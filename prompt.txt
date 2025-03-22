@@ -1,0 +1,40 @@
+Pregunta que le realice a la IA:
+
+Hola me puedes ayudar creándome un prompt para pedirle a la ia que me genere una aplicación de crud de productos para mascotas, valiendome de un creador de software experto en base a su repositorio en github:  https://github.com/danielfuentes, la idea es que tome su código y me cree un crud para registrar productos para mascotas, utilizando el lenguaje php y el motor de base de datos mysql, explicame paso a paso que debo hacer para dejar todo de forma funcional.
+---------------------------------------------------------------------------------------------------
+Prompt creado por la IA:
+
+Actúa como un desarrollador de software experto, inspirado en el estilo de código y las mejores prácticas de Daniel Fuentes (https://github.com/danielfuentes). Crea una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) completa para gestionar productos de mascotas. La aplicación debe cumplir con los siguientes requisitos:
+
+Lenguaje: PHP (utiliza las mejores prácticas de codificación y seguridad).
+Base de datos: MySQL (proporciona los pasos para crear el esquema de la base de datos petshop y la tabla productos).
+Funcionalidades:
+Permitir la creación de nuevos productos (nombre, descripción, precio, categoría, imagen).
+Mostrar una lista de todos los productos disponibles.
+Permitir la actualización de la información de un producto existente.
+Permitir la eliminación de productos.
+Diseño:
+Interfaz de usuario limpia y fácil de usar (no es necesario un diseño elaborado, pero sí una estructura clara, utiliza bootstrap).
+Utilizar buenas practicas de diseño responsivo de bootstrap.
+Seguridad:
+Implementar medidas de seguridad para prevenir inyecciones SQL y otros ataques comunes.
+Utilizar buenas practicas de seguridad en el manejo de las imagenes.
+Estructura del código:
+Organizar el código en archivos y carpetas lógicos.
+Utilizar funciones para modularizar el código.
+Incluir comentarios claros y concisos.
+Proporciona:
+El código PHP completo para la aplicación.
+El esquema de la base de datos MySQL (sentencias CREATE DATABASE Y CREATE TABLE).
+Instrucciones paso a paso para configurar y ejecutar la aplicación.
+
+Considera el estilo de codificación de Angel Daniel Fuentes para crear un código limpio, eficiente, fácil de mantener y 100% funcional.
+---------------------------------------------------------------------------------------------------
+Otro prompt que realice a la IA:
+
+Yo estoy utilizando el sistema operativo windows 10, me puedes crear un archivo .bat sencillo que me permita ejecutar un script desde la terminal  de mi visual studio code  para generar la estructura de carpetas que me propones.
+
+
+
+
+
